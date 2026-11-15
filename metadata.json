@@ -1,0 +1,6 @@
+{
+  "name": "SPACE MIND",
+  "description": "Psychological Health & Anxiety Management for Astronauts during prolonged space missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SPACE MIND</string>
+    <string name="voice_ai_title">SPACE MIND VOICE AI</string>
+    <string name="voice_ai_subtitle">Asistente de evaluación psicológica por voz</string>
+    <string name="voice_ai_start_cta">INICIAR EVALUACIÓN POR VOZ</string>
+    <string name="voice_mic_permission_rationale">Activa el micrófono solo cuando desees responder por voz. No se graban ni almacenan audios.</string>
+    <string name="voice_medical_alert_title">PROTOCOLO MÉDICO DE MISIÓN</string>
+    <string name="voice_medical_alert_body">Síntoma agudo detectado. No lo atribuyas a ansiedad. Contacta de inmediato con Control Médico (Flight Surgeon).</string>
+</resources>
